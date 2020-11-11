@@ -1,0 +1,2470 @@
+There are total 16 supported mouse buttons
+Allegro5 initialized
+Game begin
+resized image: main-bg.jpg
+resized image: settings-bg1.png
+resized image: start-bg.jpg
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Mouse move to (425, 146)
+Mouse move to (426, 150)
+Mouse move to (428, 154)
+Mouse move to (429, 157)
+Mouse move to (431, 159)
+Mouse move to (432, 162)
+Mouse move to (434, 166)
+Mouse move to (435, 169)
+Mouse move to (435, 170)
+Mouse move to (436, 173)
+Mouse move to (438, 176)
+Mouse move to (440, 179)
+Mouse move to (441, 180)
+Mouse move to (442, 183)
+Mouse move to (443, 185)
+Mouse move to (444, 188)
+Mouse move to (445, 190)
+Mouse move to (447, 193)
+Mouse move to (447, 194)
+Mouse move to (448, 195)
+Mouse move to (449, 197)
+Mouse move to (450, 200)
+Mouse move to (450, 201)
+Mouse move to (451, 203)
+Mouse move to (452, 203)
+Mouse move to (453, 205)
+Mouse move to (453, 206)
+Mouse move to (454, 207)
+Mouse move to (455, 209)
+Mouse move to (449, 215)
+Mouse move to (446, 218)
+Mouse move to (444, 221)
+Mouse move to (441, 224)
+Mouse move to (441, 226)
+Mouse move to (440, 226)
+Mouse move to (438, 228)
+Mouse move to (434, 229)
+Mouse move to (434, 230)
+Mouse move to (433, 230)
+Mouse move to (432, 231)
+Mouse move to (432, 233)
+Mouse move to (432, 234)
+Mouse move to (434, 234)
+Mouse move to (437, 234)
+Mouse move to (439, 234)
+Mouse move to (440, 234)
+Mouse move to (440, 233)
+Mouse move to (440, 232)
+Mouse move to (440, 231)
+Mouse move to (441, 231)
+Mouse move to (442, 231)
+Mouse move to (442, 232)
+Mouse move to (441, 233)
+Mouse move to (440, 233)
+Mouse move to (440, 234)
+Mouse move to (439, 235)
+Mouse move to (438, 235)
+Mouse move to (436, 236)
+Mouse move to (435, 236)
+Mouse move to (433, 237)
+Mouse move to (429, 237)
+Mouse move to (427, 237)
+Mouse move to (423, 238)
+Mouse move to (417, 239)
+Mouse move to (409, 240)
+Mouse move to (400, 241)
+Mouse move to (392, 241)
+Mouse move to (382, 243)
+Mouse move to (368, 244)
+Mouse move to (355, 244)
+Mouse move to (337, 245)
+Mouse move to (296, 245)
+Mouse move to (277, 242)
+Mouse move to (248, 239)
+Mouse move to (226, 237)
+Mouse move to (194, 233)
+Mouse move to (159, 229)
+Mouse move to (127, 227)
+Mouse move to (89, 223)
+Mouse move to (53, 219)
+Mouse move to (25, 218)
+Mouse move to (3, 216)
+Mouse move to (10, 231)
+Key with keycode 64 up
+Mouse move to (15, 232)
+Mouse move to (23, 235)
+Mouse move to (28, 236)
+Mouse move to (37, 237)
+Mouse move to (42, 237)
+Mouse move to (49, 239)
+Mouse move to (54, 239)
+Mouse move to (63, 241)
+Mouse move to (71, 242)
+Mouse move to (78, 243)
+Mouse move to (89, 244)
+Mouse move to (97, 246)
+Mouse move to (104, 246)
+Mouse move to (113, 247)
+Mouse move to (119, 247)
+Mouse move to (131, 248)
+Mouse move to (138, 249)
+Mouse move to (150, 251)
+Mouse move to (160, 252)
+Mouse move to (170, 253)
+Mouse move to (184, 254)
+Mouse move to (195, 254)
+Mouse move to (206, 256)
+Mouse move to (219, 256)
+Mouse move to (229, 257)
+Mouse move to (239, 258)
+Mouse move to (248, 258)
+Mouse move to (259, 258)
+Mouse move to (269, 258)
+Mouse move to (278, 260)
+Mouse move to (286, 260)
+Mouse move to (293, 260)
+Mouse move to (299, 261)
+Mouse move to (305, 261)
+Mouse move to (308, 261)
+Mouse move to (313, 261)
+Mouse move to (316, 261)
+Mouse move to (317, 261)
+Mouse move to (318, 261)
+Mouse button 1 down at (318, 261)
+Mouse button 1 up at (318, 261)
+Mouse move to (319, 261)
+Mouse move to (321, 258)
+Mouse move to (323, 255)
+Mouse move to (325, 251)
+Mouse move to (329, 245)
+Mouse move to (334, 236)
+Mouse move to (342, 224)
+Mouse move to (350, 212)
+Mouse move to (365, 192)
+Mouse move to (376, 180)
+Mouse move to (388, 165)
+Mouse move to (399, 154)
+Mouse move to (412, 139)
+Mouse move to (424, 130)
+Mouse move to (439, 118)
+Mouse move to (453, 108)
+Mouse move to (469, 98)
+Mouse move to (482, 88)
+Mouse move to (500, 78)
+Mouse move to (515, 66)
+Mouse move to (534, 46)
+Mouse move to (547, 35)
+Mouse move to (559, 24)
+Mouse move to (670, 0)
+Mouse move to (674, 2)
+Mouse move to (677, 3)
+Mouse move to (678, 3)
+Mouse move to (679, 3)
+Mouse move to (680, 4)
+Mouse move to (680, 6)
+Mouse move to (679, 8)
+Mouse move to (674, 11)
+Mouse move to (670, 13)
+Mouse move to (667, 13)
+Mouse move to (662, 14)
+Mouse move to (653, 15)
+Mouse move to (646, 15)
+Mouse move to (638, 15)
+Mouse move to (631, 15)
+Mouse move to (623, 15)
+Mouse move to (616, 15)
+Mouse move to (607, 15)
+Mouse move to (600, 14)
+Mouse move to (593, 13)
+Mouse move to (588, 11)
+Mouse move to (579, 10)
+Mouse move to (575, 9)
+Mouse move to (570, 8)
+Mouse move to (564, 6)
+Mouse move to (559, 4)
+Mouse move to (556, 4)
+Mouse move to (555, 3)
+Mouse move to (553, 2)
+Mouse move to (551, 1)
+Mouse move to (550, 1)
+Mouse move to (549, 1)
+Mouse move to (548, 1)
+Mouse move to (547, 1)
+Mouse move to (545, 0)
+Mouse move to (544, 0)
+Mouse move to (517, 0)
+Mouse move to (516, 1)
+Mouse move to (515, 2)
+Mouse move to (514, 3)
+Mouse move to (513, 3)
+Mouse move to (511, 4)
+Mouse move to (511, 5)
+Mouse move to (510, 5)
+Mouse move to (509, 7)
+Mouse move to (508, 8)
+Mouse move to (507, 9)
+Mouse move to (506, 10)
+Mouse move to (505, 12)
+Mouse move to (504, 12)
+Mouse move to (503, 13)
+Mouse move to (502, 14)
+Mouse move to (502, 15)
+Mouse move to (500, 16)
+Mouse move to (500, 17)
+Mouse move to (499, 17)
+Key with keycode 219 down
+Mouse move to (498, 18)
+Mouse move to (498, 19)
+Mouse move to (497, 21)
+Mouse move to (235, 136)
+Key with keycode 64 up
+Mouse move to (198, 151)
+Mouse move to (198, 152)
+Mouse move to (198, 157)
+Mouse move to (200, 162)
+Mouse move to (204, 167)
+Mouse move to (210, 177)
+Mouse move to (218, 186)
+Mouse move to (226, 195)
+Mouse move to (234, 203)
+Mouse move to (240, 211)
+Mouse move to (245, 217)
+Mouse move to (250, 223)
+Mouse move to (253, 228)
+Mouse move to (258, 234)
+Mouse move to (260, 237)
+Mouse move to (266, 243)
+Mouse move to (274, 252)
+Mouse move to (283, 260)
+Mouse move to (294, 271)
+Mouse move to (305, 282)
+Mouse move to (316, 290)
+Mouse move to (325, 295)
+Mouse move to (332, 300)
+Mouse move to (338, 303)
+Mouse move to (340, 305)
+Mouse move to (343, 306)
+Mouse move to (343, 307)
+Mouse move to (344, 307)
+Mouse button 1 down at (344, 307)
+Mouse button 1 up at (344, 307)
+Mouse move to (343, 306)
+Mouse move to (342, 305)
+Mouse move to (340, 303)
+Mouse move to (339, 301)
+Mouse move to (338, 300)
+Mouse move to (337, 299)
+Mouse move to (337, 297)
+Mouse move to (336, 297)
+Mouse move to (335, 296)
+Mouse move to (334, 294)
+Mouse move to (333, 293)
+Mouse move to (337, 293)
+Mouse move to (338, 293)
+Mouse move to (340, 293)
+Mouse move to (341, 293)
+Mouse move to (342, 294)
+Mouse move to (345, 295)
+Mouse move to (347, 296)
+Mouse move to (350, 298)
+Mouse move to (354, 299)
+Mouse move to (357, 300)
+Mouse move to (361, 302)
+Mouse move to (363, 302)
+Mouse move to (369, 305)
+Mouse move to (373, 307)
+Mouse move to (378, 309)
+Mouse move to (384, 310)
+Mouse move to (388, 312)
+Mouse move to (392, 313)
+Mouse move to (394, 315)
+Mouse move to (396, 316)
+Mouse move to (397, 316)
+Mouse move to (399, 316)
+Mouse move to (401, 316)
+Mouse move to (404, 316)
+Mouse move to (405, 317)
+Mouse move to (407, 317)
+Mouse move to (411, 317)
+Mouse move to (413, 317)
+Mouse move to (419, 318)
+Mouse move to (423, 321)
+Mouse move to (427, 322)
+Mouse move to (429, 323)
+Mouse move to (433, 324)
+Mouse move to (436, 325)
+Mouse move to (439, 327)
+Mouse move to (440, 328)
+Mouse move to (443, 329)
+Mouse move to (446, 331)
+Mouse move to (450, 333)
+Mouse move to (453, 334)
+Mouse move to (456, 337)
+Mouse move to (458, 338)
+Mouse move to (460, 340)
+Mouse move to (463, 343)
+Mouse move to (464, 344)
+Mouse move to (465, 345)
+Mouse move to (465, 347)
+Mouse move to (466, 347)
+Mouse move to (469, 347)
+Mouse move to (470, 345)
+Mouse move to (471, 345)
+Mouse move to (476, 341)
+Mouse move to (478, 340)
+Mouse move to (480, 338)
+Mouse move to (482, 337)
+Mouse move to (485, 336)
+Mouse move to (487, 336)
+Mouse move to (487, 335)
+Mouse move to (488, 334)
+Mouse move to (489, 333)
+Mouse move to (490, 332)
+Mouse move to (492, 330)
+Mouse move to (494, 329)
+Mouse move to (496, 327)
+Mouse move to (498, 325)
+Mouse move to (499, 324)
+Mouse move to (499, 323)
+Mouse move to (501, 322)
+Mouse move to (501, 321)
+Mouse move to (501, 322)
+Mouse move to (501, 323)
+Mouse move to (501, 325)
+Mouse move to (501, 326)
+Mouse move to (501, 328)
+Mouse move to (501, 330)
+Mouse move to (501, 331)
+Mouse move to (501, 333)
+Mouse move to (501, 334)
+Mouse move to (501, 335)
+Mouse move to (501, 336)
+Mouse move to (501, 337)
+Mouse move to (501, 338)
+Mouse move to (501, 339)
+Mouse move to (503, 339)
+Mouse move to (505, 338)
+Mouse move to (507, 338)
+Mouse move to (508, 338)
+Mouse move to (510, 337)
+Mouse move to (511, 337)
+Mouse move to (512, 337)
+Mouse move to (513, 337)
+Mouse move to (514, 337)
+Mouse move to (516, 336)
+Mouse move to (517, 336)
+Mouse move to (519, 336)
+Mouse move to (520, 336)
+Mouse move to (521, 336)
+Mouse move to (525, 335)
+Mouse move to (526, 335)
+Mouse move to (529, 334)
+Mouse move to (533, 334)
+Mouse move to (535, 334)
+Mouse move to (538, 334)
+Mouse move to (542, 334)
+Mouse move to (544, 334)
+Mouse move to (547, 334)
+Mouse move to (551, 334)
+Mouse move to (553, 334)
+Mouse move to (556, 334)
+Mouse move to (560, 334)
+Mouse move to (565, 334)
+Mouse move to (570, 334)
+Mouse move to (575, 334)
+Mouse move to (581, 334)
+Mouse move to (586, 334)
+Mouse move to (594, 335)
+Mouse move to (600, 335)
+Mouse move to (602, 336)
+Mouse move to (607, 336)
+Mouse move to (610, 336)
+Mouse move to (613, 337)
+Mouse move to (615, 337)
+Mouse move to (618, 338)
+Mouse move to (622, 338)
+Mouse move to (625, 339)
+Mouse move to (628, 340)
+Mouse move to (634, 341)
+Mouse move to (637, 341)
+Mouse move to (643, 342)
+Mouse move to (647, 342)
+Mouse move to (651, 343)
+Mouse move to (656, 343)
+Mouse move to (661, 344)
+Mouse move to (667, 345)
+Mouse move to (672, 345)
+Mouse move to (677, 346)
+Mouse move to (683, 347)
+Mouse move to (688, 348)
+Mouse move to (692, 349)
+Mouse move to (697, 350)
+Mouse move to (704, 352)
+Mouse move to (707, 353)
+Mouse move to (715, 354)
+Mouse move to (722, 356)
+Mouse move to (734, 359)
+Mouse move to (743, 360)
+Mouse move to (753, 363)
+Mouse move to (760, 364)
+Mouse move to (770, 366)
+Mouse move to (779, 368)
+Mouse move to (786, 369)
+Mouse move to (793, 370)
+Mouse move to (798, 371)
+Key with keycode 219 down
+1156 frame(s) dropped
+Key with keycode 64 up
+Mouse move to (679, 596)
+Mouse move to (657, 576)
+Mouse move to (638, 556)
+Mouse move to (612, 533)
+Mouse move to (598, 517)
+Mouse move to (583, 499)
+Mouse move to (574, 480)
+Mouse move to (563, 458)
+Mouse move to (554, 430)
+Mouse move to (545, 402)
+Mouse move to (535, 371)
+Mouse move to (528, 341)
+Mouse move to (523, 318)
+Mouse move to (518, 298)
+Mouse move to (517, 281)
+Mouse move to (515, 268)
+Mouse move to (515, 256)
+Mouse move to (516, 246)
+Mouse move to (521, 235)
+Mouse move to (526, 228)
+Mouse move to (531, 222)
+Mouse move to (537, 215)
+Mouse move to (543, 211)
+Mouse move to (547, 206)
+Mouse move to (552, 203)
+Mouse move to (555, 200)
+Mouse move to (561, 195)
+Mouse move to (563, 193)
+Mouse move to (566, 191)
+Mouse move to (568, 191)
+Mouse move to (571, 188)
+Mouse move to (575, 184)
+Mouse move to (581, 181)
+Mouse move to (589, 176)
+Mouse move to (595, 171)
+Mouse move to (602, 166)
+Mouse move to (615, 158)
+Mouse move to (624, 151)
+Mouse move to (634, 145)
+Mouse move to (642, 140)
+Mouse move to (649, 136)
+Mouse move to (658, 131)
+Mouse move to (663, 126)
+Mouse move to (669, 123)
+Mouse move to (675, 118)
+Mouse move to (681, 114)
+Mouse move to (687, 110)
+Mouse move to (693, 105)
+Mouse move to (699, 100)
+Mouse move to (702, 97)
+Mouse move to (707, 94)
+Mouse move to (710, 91)
+Mouse move to (713, 89)
+Mouse move to (714, 88)
+Mouse move to (715, 87)
+Mouse move to (717, 86)
+Mouse move to (719, 85)
+Mouse move to (720, 84)
+Mouse move to (720, 82)
+Mouse move to (722, 80)
+Mouse move to (723, 79)
+Mouse move to (724, 77)
+Mouse move to (728, 73)
+Mouse move to (731, 71)
+Mouse move to (735, 68)
+Mouse move to (738, 66)
+Mouse move to (740, 63)
+Mouse move to (743, 62)
+Mouse move to (745, 60)
+Mouse move to (747, 57)
+Mouse move to (749, 54)
+Mouse move to (750, 52)
+Mouse move to (751, 50)
+Mouse move to (751, 48)
+Mouse move to (752, 47)
+Mouse move to (754, 44)
+Mouse move to (755, 43)
+Mouse move to (755, 41)
+Mouse move to (757, 41)
+Mouse move to (758, 39)
+Mouse move to (760, 38)
+Mouse move to (761, 36)
+Mouse move to (762, 34)
+Mouse move to (762, 33)
+Mouse move to (763, 33)
+Mouse move to (764, 31)
+Mouse move to (766, 30)
+Mouse move to (767, 29)
+Mouse move to (769, 28)
+Mouse move to (769, 27)
+Mouse move to (769, 26)
+Mouse button 1 down at (769, 26)
+Change scene from 1 to 3
+stop audio (bgm)
+88 frame(s) dropped
+1 frame(s) dropped
+Mouse button 1 up at (769, 26)
+1 frame(s) dropped
+Mouse move to (769, 27)
+Mouse move to (769, 28)
+Mouse move to (769, 30)
+1 frame(s) dropped
+Mouse move to (768, 31)
+Mouse move to (766, 33)
+Mouse move to (765, 35)
+Mouse move to (762, 39)
+Mouse move to (761, 41)
+Mouse move to (760, 43)
+Mouse move to (758, 45)
+Mouse move to (757, 47)
+Mouse move to (754, 50)
+Mouse move to (751, 54)
+Mouse move to (748, 57)
+Mouse move to (745, 61)
+Mouse move to (739, 66)
+Mouse move to (735, 71)
+Mouse move to (729, 77)
+Mouse move to (724, 83)
+Mouse move to (720, 89)
+Mouse move to (712, 98)
+Mouse move to (707, 104)
+Mouse move to (697, 113)
+Mouse move to (693, 119)
+Mouse move to (683, 130)
+Mouse move to (675, 141)
+Mouse move to (668, 154)
+Mouse move to (660, 166)
+Mouse move to (653, 180)
+Mouse move to (644, 194)
+Mouse move to (636, 206)
+Mouse move to (628, 217)
+Mouse move to (620, 228)
+Mouse move to (612, 242)
+Mouse move to (603, 256)
+Mouse move to (596, 270)
+Mouse move to (588, 282)
+Mouse move to (581, 293)
+Mouse move to (575, 304)
+Mouse move to (568, 314)
+Mouse move to (558, 325)
+Mouse move to (553, 331)
+Mouse move to (546, 339)
+Mouse move to (542, 345)
+Mouse move to (537, 351)
+Mouse move to (533, 357)
+Mouse move to (528, 363)
+Mouse move to (523, 369)
+Mouse move to (520, 373)
+Mouse move to (519, 377)
+Mouse move to (516, 381)
+Mouse move to (513, 386)
+Mouse move to (510, 390)
+Mouse move to (507, 394)
+Mouse move to (504, 397)
+Mouse move to (499, 403)
+Mouse move to (495, 406)
+Mouse move to (492, 409)
+Mouse move to (489, 412)
+Mouse move to (485, 415)
+Mouse move to (482, 417)
+Mouse move to (479, 420)
+Mouse move to (477, 421)
+Mouse move to (475, 424)
+Mouse move to (470, 427)
+Mouse move to (464, 431)
+Mouse move to (462, 433)
+Mouse move to (456, 436)
+Mouse move to (450, 439)
+Mouse move to (445, 442)
+Mouse move to (439, 444)
+Mouse move to (436, 446)
+Mouse move to (431, 449)
+Mouse move to (430, 450)
+Mouse move to (428, 451)
+Mouse move to (427, 452)
+Mouse move to (426, 453)
+Mouse button 1 down at (426, 453)
+Change scene from 3 to 1
+Mouse button 1 up at (426, 453)
+Mouse move to (428, 450)
+Mouse move to (430, 447)
+Mouse move to (432, 443)
+Mouse move to (437, 437)
+Mouse move to (445, 428)
+Mouse move to (456, 417)
+Mouse move to (469, 402)
+Mouse move to (485, 386)
+Mouse move to (499, 370)
+Mouse move to (518, 351)
+Mouse move to (534, 335)
+Mouse move to (555, 313)
+Mouse move to (570, 299)
+Mouse move to (592, 279)
+Mouse move to (611, 259)
+Mouse move to (640, 232)
+Mouse move to (660, 213)
+Mouse move to (683, 190)
+Mouse move to (709, 164)
+Mouse move to (731, 142)
+Mouse move to (751, 122)
+Mouse move to (773, 102)
+Mouse move to (792, 85)
+Mouse move to (793, 79)
+Mouse move to (779, 94)
+Mouse move to (759, 116)
+Mouse move to (738, 141)
+Mouse move to (712, 173)
+Mouse move to (681, 208)
+Mouse move to (657, 237)
+Mouse move to (625, 267)
+Mouse move to (593, 295)
+Mouse move to (564, 319)
+Mouse move to (539, 338)
+Mouse move to (518, 354)
+Mouse move to (497, 370)
+Mouse move to (479, 385)
+Mouse move to (465, 395)
+Mouse move to (456, 403)
+Mouse move to (446, 409)
+Mouse move to (439, 415)
+Mouse move to (434, 419)
+Mouse move to (429, 422)
+Mouse move to (426, 425)
+Mouse move to (423, 428)
+Mouse move to (420, 431)
+Mouse move to (419, 432)
+Mouse move to (418, 434)
+Mouse move to (417, 435)
+Mouse move to (416, 435)
+Mouse move to (416, 437)
+Mouse move to (415, 440)
+Mouse move to (413, 441)
+Mouse move to (412, 443)
+Mouse move to (411, 444)
+Mouse move to (409, 446)
+Mouse move to (408, 448)
+Mouse move to (406, 450)
+Mouse move to (405, 451)
+Mouse move to (404, 452)
+Mouse move to (402, 455)
+Mouse move to (401, 456)
+Mouse button 1 down at (401, 456)
+Mouse button 1 up at (401, 456)
+Mouse move to (401, 455)
+Mouse move to (401, 454)
+Mouse move to (402, 453)
+Mouse move to (402, 452)
+Mouse move to (403, 452)
+Mouse move to (404, 450)
+Mouse move to (406, 449)
+Mouse move to (408, 448)
+Mouse move to (409, 446)
+Mouse move to (410, 445)
+Mouse move to (411, 445)
+Mouse move to (412, 444)
+Mouse move to (413, 443)
+Mouse move to (414, 442)
+Mouse move to (416, 441)
+Mouse move to (417, 440)
+Mouse move to (419, 439)
+Mouse move to (420, 438)
+Mouse move to (422, 437)
+Mouse move to (424, 437)
+Mouse move to (426, 436)
+Mouse move to (428, 435)
+Mouse move to (428, 434)
+Mouse move to (430, 434)
+Mouse move to (434, 433)
+Mouse move to (436, 433)
+Mouse move to (438, 433)
+Mouse move to (440, 432)
+Mouse move to (441, 431)
+Mouse move to (443, 431)
+Mouse move to (446, 430)
+Mouse move to (447, 430)
+Mouse move to (451, 429)
+Mouse move to (453, 429)
+Mouse move to (455, 429)
+Mouse move to (458, 428)
+Mouse move to (461, 428)
+Mouse move to (464, 427)
+Mouse move to (467, 426)
+Mouse move to (471, 426)
+Mouse move to (473, 425)
+Mouse move to (477, 425)
+Mouse move to (480, 425)
+Mouse move to (485, 424)
+Mouse move to (490, 424)
+Mouse move to (497, 424)
+Mouse move to (501, 423)
+Mouse move to (509, 423)
+Mouse move to (521, 423)
+Mouse move to (531, 424)
+Mouse move to (544, 425)
+Mouse move to (558, 428)
+Mouse move to (573, 432)
+Mouse move to (590, 436)
+Mouse move to (610, 444)
+Mouse move to (638, 453)
+Mouse move to (660, 463)
+Mouse move to (682, 472)
+Mouse move to (711, 485)
+Mouse move to (732, 493)
+Mouse move to (751, 503)
+Mouse move to (777, 516)
+Mouse move to (789, 523)
+191 frame(s) dropped
+Mouse move to (586, 572)
+Mouse move to (586, 541)
+Mouse move to (586, 501)
+Mouse move to (586, 457)
+Mouse move to (587, 405)
+Mouse move to (590, 354)
+Mouse move to (592, 302)
+Mouse move to (594, 248)
+Mouse move to (594, 203)
+Mouse move to (596, 152)
+Mouse move to (596, 118)
+Mouse move to (598, 80)
+Mouse move to (598, 59)
+Mouse move to (600, 43)
+Mouse move to (601, 34)
+Mouse move to (603, 27)
+Mouse move to (604, 24)
+Mouse move to (605, 24)
+Mouse move to (607, 24)
+Mouse move to (607, 26)
+Mouse move to (609, 34)
+Mouse move to (610, 44)
+Mouse move to (610, 45)
+Mouse move to (606, 49)
+Mouse move to (598, 54)
+Mouse move to (594, 57)
+Mouse move to (588, 60)
+Mouse move to (582, 64)
+Mouse move to (573, 69)
+Mouse move to (570, 71)
+Mouse move to (565, 74)
+Mouse move to (562, 77)
+Mouse move to (559, 81)
+Mouse move to (554, 86)
+Mouse move to (551, 90)
+Mouse move to (548, 93)
+Mouse move to (545, 97)
+Mouse move to (543, 103)
+Mouse move to (540, 109)
+Mouse move to (538, 114)
+Mouse move to (537, 123)
+Mouse move to (536, 133)
+Mouse move to (534, 145)
+Mouse move to (533, 155)
+Mouse move to (533, 162)
+Mouse move to (533, 172)
+Mouse move to (532, 182)
+Mouse move to (532, 191)
+Mouse move to (532, 197)
+Mouse move to (531, 203)
+Mouse move to (530, 210)
+Mouse move to (530, 215)
+Mouse move to (527, 224)
+Mouse move to (523, 231)
+Mouse move to (522, 237)
+Mouse move to (518, 249)
+Mouse move to (514, 258)
+Mouse move to (511, 268)
+Mouse move to (507, 279)
+Mouse move to (503, 286)
+Mouse move to (498, 297)
+Mouse move to (493, 301)
+Mouse move to (488, 307)
+Mouse move to (486, 310)
+Mouse move to (485, 313)
+Mouse move to (484, 315)
+Mouse move to (484, 317)
+Mouse button 1 down at (484, 317)
+Mouse move to (484, 318)
+Mouse button 1 up at (484, 318)
+66 frame(s) dropped
+Mouse move to (482, 320)
+Mouse move to (480, 322)
+Mouse move to (479, 323)
+Mouse move to (478, 324)
+Mouse move to (477, 325)
+Mouse move to (476, 325)
+Mouse move to (475, 326)
+Mouse move to (473, 328)
+Mouse move to (471, 330)
+Mouse move to (471, 331)
+Mouse move to (469, 332)
+Mouse move to (468, 333)
+Mouse move to (468, 334)
+Mouse move to (466, 335)
+Mouse move to (465, 335)
+Mouse move to (465, 336)
+14 frame(s) dropped
+Mouse move to (469, 331)
+Mouse move to (473, 328)
+Mouse move to (479, 323)
+Mouse move to (486, 319)
+Mouse move to (492, 314)
+Mouse move to (501, 307)
+Mouse move to (513, 297)
+Mouse move to (522, 291)
+Mouse move to (533, 283)
+Mouse move to (544, 276)
+Mouse move to (555, 268)
+Mouse move to (564, 261)
+Mouse move to (575, 252)
+Mouse move to (587, 244)
+Mouse move to (598, 238)
+Mouse move to (612, 231)
+Mouse move to (622, 226)
+Mouse move to (633, 221)
+Mouse move to (644, 217)
+Mouse move to (654, 213)
+Mouse move to (661, 209)
+Mouse move to (667, 207)
+Mouse move to (673, 203)
+Mouse move to (676, 202)
+Mouse move to (681, 200)
+Mouse move to (687, 198)
+Mouse move to (692, 196)
+Mouse move to (695, 195)
+Mouse move to (698, 194)
+Mouse move to (701, 192)
+Mouse move to (703, 191)
+Mouse move to (704, 191)
+Mouse move to (707, 190)
+Mouse move to (707, 189)
+Mouse move to (708, 188)
+Mouse move to (709, 188)
+34 frame(s) dropped
+Mouse move to (708, 188)
+Mouse move to (708, 189)
+1 frame(s) dropped
+Mouse move to (707, 190)
+1 frame(s) dropped
+1 frame(s) dropped
+Mouse move to (708, 185)
+Mouse move to (709, 184)
+Mouse move to (709, 181)
+Mouse move to (711, 178)
+Mouse move to (712, 174)
+Mouse move to (714, 171)
+Mouse move to (717, 168)
+Mouse move to (719, 164)
+Mouse move to (722, 161)
+Mouse move to (725, 157)
+Mouse move to (728, 154)
+Mouse move to (731, 151)
+Mouse move to (737, 144)
+Mouse move to (740, 141)
+Mouse move to (745, 135)
+Mouse move to (750, 129)
+Mouse move to (752, 126)
+Mouse move to (755, 122)
+Mouse move to (756, 118)
+Mouse move to (758, 115)
+Mouse move to (760, 112)
+Mouse move to (760, 110)
+Mouse move to (762, 106)
+Mouse move to (763, 103)
+Mouse move to (765, 100)
+Mouse move to (770, 93)
+Mouse move to (773, 90)
+Mouse move to (775, 86)
+Mouse move to (778, 83)
+Mouse move to (782, 77)
+Mouse move to (786, 73)
+Mouse move to (790, 67)
+Mouse move to (797, 59)
+Mouse move to (798, 57)
+Mouse move to (799, 40)
+Mouse move to (797, 40)
+Mouse move to (796, 39)
+Mouse move to (794, 39)
+Mouse move to (792, 38)
+Mouse move to (791, 38)
+Mouse move to (790, 38)
+Mouse move to (787, 37)
+Mouse move to (786, 36)
+Mouse move to (784, 36)
+Mouse move to (784, 35)
+Mouse move to (782, 35)
+Mouse move to (780, 35)
+Mouse move to (778, 34)
+Mouse move to (777, 34)
+Mouse move to (776, 34)
+Mouse move to (775, 34)
+Mouse move to (773, 34)
+Mouse move to (771, 34)
+Mouse move to (770, 34)
+Mouse move to (769, 34)
+53 frame(s) dropped
+Mouse move to (768, 34)
+Mouse move to (766, 37)
+Mouse move to (765, 39)
+Mouse move to (763, 41)
+Mouse move to (761, 42)
+Mouse move to (758, 45)
+Mouse move to (756, 47)
+Mouse move to (753, 51)
+Mouse move to (747, 57)
+Mouse move to (744, 60)
+Mouse move to (741, 63)
+Mouse move to (738, 66)
+Mouse move to (732, 72)
+Mouse move to (729, 75)
+Mouse move to (726, 79)
+Mouse move to (723, 82)
+Mouse move to (723, 83)
+Mouse move to (720, 85)
+Mouse move to (717, 90)
+Mouse move to (716, 90)
+Mouse move to (714, 92)
+Mouse move to (712, 95)
+Mouse move to (711, 97)
+Mouse move to (708, 100)
+Mouse move to (706, 101)
+Mouse move to (703, 104)
+Mouse move to (702, 105)
+Mouse move to (702, 106)
+Mouse move to (701, 107)
+Mouse move to (700, 109)
+Mouse move to (698, 110)
+Mouse move to (698, 111)
+Mouse move to (697, 112)
+Mouse move to (695, 113)
+Mouse move to (695, 114)
+Mouse move to (694, 115)
+Mouse move to (692, 117)
+Mouse move to (691, 118)
+34 frame(s) dropped
+Mouse button 1 down at (691, 118)
+Mouse button 1 up at (691, 118)
+Mouse move to (691, 116)
+Mouse move to (691, 114)
+Mouse move to (691, 113)
+Mouse move to (691, 112)
+Mouse move to (691, 109)
+Mouse move to (691, 107)
+Mouse move to (691, 104)
+Mouse move to (691, 101)
+Mouse move to (692, 98)
+Mouse move to (692, 95)
+Mouse move to (693, 91)
+Mouse move to (693, 89)
+Mouse move to (694, 86)
+Mouse move to (694, 83)
+Mouse move to (694, 82)
+Mouse move to (694, 79)
+Mouse move to (695, 76)
+Mouse move to (695, 73)
+Mouse move to (695, 72)
+Mouse move to (695, 69)
+Mouse move to (695, 66)
+Mouse move to (695, 63)
+Mouse move to (695, 62)
+Mouse move to (696, 59)
+Mouse move to (696, 55)
+Mouse move to (696, 54)
+Mouse move to (696, 52)
+Mouse move to (697, 50)
+Mouse move to (697, 48)
+Mouse move to (697, 46)
+Mouse move to (697, 42)
+Mouse move to (697, 40)
+Mouse move to (697, 39)
+Mouse move to (697, 36)
+Mouse move to (697, 35)
+Mouse move to (697, 32)
+Mouse move to (697, 31)
+Mouse move to (698, 30)
+Mouse move to (698, 29)
+Mouse move to (698, 28)
+Mouse move to (698, 27)
+Mouse move to (699, 27)
+Mouse move to (700, 26)
+Mouse move to (701, 24)
+Mouse move to (704, 23)
+Mouse move to (706, 22)
+Mouse move to (707, 22)
+Mouse move to (710, 22)
+Mouse move to (712, 21)
+Mouse move to (715, 21)
+Mouse move to (716, 20)
+Mouse move to (719, 20)
+Mouse move to (720, 20)
+Mouse move to (721, 20)
+Mouse move to (724, 19)
+Mouse move to (725, 19)
+Mouse move to (727, 19)
+Mouse move to (730, 19)
+Mouse move to (731, 19)
+Mouse move to (734, 19)
+Mouse move to (735, 19)
+Mouse move to (738, 19)
+Mouse move to (742, 19)
+Mouse move to (743, 19)
+Mouse move to (745, 19)
+Mouse move to (747, 19)
+Mouse move to (748, 19)
+Mouse move to (749, 20)
+Mouse move to (751, 22)
+Mouse move to (752, 23)
+Mouse move to (752, 24)
+Mouse move to (752, 25)
+Mouse move to (752, 26)
+67 frame(s) dropped
+Mouse move to (752, 27)
+Mouse move to (752, 28)
+1 frame(s) dropped
+Mouse move to (752, 29)
+Mouse move to (752, 32)
+Mouse move to (752, 33)
+Mouse move to (750, 36)
+Mouse move to (746, 40)
+Mouse move to (743, 43)
+Mouse move to (735, 50)
+Mouse move to (726, 55)
+Mouse move to (715, 61)
+Mouse move to (706, 67)
+Mouse move to (696, 72)
+Mouse move to (685, 77)
+Mouse move to (673, 83)
+Mouse move to (661, 87)
+Mouse move to (647, 91)
+Mouse move to (630, 97)
+Mouse move to (607, 101)
+Mouse move to (585, 110)
+Mouse move to (563, 118)
+Mouse move to (536, 127)
+Mouse move to (511, 136)
+Mouse move to (486, 145)
+Mouse move to (456, 155)
+Mouse move to (425, 162)
+Mouse move to (398, 169)
+Mouse move to (357, 182)
+Mouse move to (319, 195)
+Mouse move to (278, 208)
+Mouse move to (247, 220)
+Mouse move to (216, 229)
+Mouse move to (191, 238)
+Mouse move to (174, 242)
+Mouse move to (156, 245)
+Mouse move to (140, 248)
+Mouse move to (122, 249)
+Mouse move to (100, 249)
+Mouse move to (69, 249)
+Mouse move to (37, 251)
+Mouse move to (3, 253)
+40 frame(s) dropped
+Key with keycode 64 up
+Mouse move to (273, 263)
+Mouse move to (274, 263)
+Mouse move to (275, 263)
+Mouse move to (283, 258)
+Mouse move to (288, 257)
+Mouse move to (294, 256)
+Mouse move to (301, 254)
+Mouse move to (311, 253)
+Mouse move to (323, 250)
+Mouse move to (336, 250)
+Mouse move to (354, 249)
+Mouse move to (372, 249)
+Mouse move to (391, 249)
+Mouse move to (413, 249)
+Mouse move to (441, 249)
+Mouse move to (459, 249)
+Mouse move to (479, 249)
+Mouse move to (504, 250)
+Mouse move to (522, 251)
+Mouse move to (540, 251)
+Mouse move to (561, 253)
+Mouse move to (577, 253)
+Mouse move to (596, 254)
+Mouse move to (614, 254)
+Mouse move to (631, 255)
+Mouse move to (645, 255)
+Mouse move to (659, 255)
+Mouse move to (672, 255)
+Mouse move to (680, 255)
+Mouse move to (689, 255)
+Mouse move to (693, 255)
+Mouse move to (694, 255)
+Mouse move to (695, 255)
+Mouse button 1 down at (695, 255)
+Mouse button 1 up at (695, 255)
+Mouse move to (696, 254)
+Mouse move to (698, 248)
+Mouse move to (699, 243)
+Mouse move to (701, 237)
+Mouse move to (703, 232)
+Mouse move to (706, 223)
+Mouse move to (708, 214)
+Mouse move to (712, 207)
+Mouse move to (716, 198)
+Mouse move to (718, 189)
+Mouse move to (720, 183)
+Mouse move to (724, 176)
+Mouse move to (727, 167)
+Mouse move to (731, 157)
+Mouse move to (734, 148)
+Mouse move to (738, 137)
+Mouse move to (741, 129)
+Mouse move to (745, 118)
+Mouse move to (746, 109)
+Mouse move to (748, 102)
+Mouse move to (751, 92)
+Mouse move to (752, 83)
+Mouse move to (752, 78)
+Mouse move to (753, 74)
+Mouse move to (754, 69)
+Mouse move to (755, 66)
+Mouse move to (756, 61)
+Mouse move to (757, 58)
+Mouse move to (758, 57)
+Mouse move to (759, 55)
+Mouse move to (759, 53)
+Mouse move to (759, 51)
+Mouse move to (760, 50)
+Mouse move to (760, 49)
+Mouse move to (760, 47)
+Mouse move to (761, 47)
+Mouse move to (761, 45)
+Mouse move to (762, 44)
+Mouse move to (762, 43)
+Mouse move to (762, 42)
+Mouse move to (762, 41)
+Mouse move to (763, 40)
+Mouse move to (764, 38)
+Mouse move to (764, 37)
+Mouse move to (764, 36)
+77 frame(s) dropped
+1 frame(s) dropped
+Mouse button 1 down at (764, 36)
+Change scene from 1 to 3
+stop audio (bgm)
+2 frame(s) dropped
+Mouse button 1 up at (764, 36)
+Mouse move to (756, 39)
+Mouse move to (752, 43)
+Mouse move to (746, 47)
+Mouse move to (740, 51)
+Mouse move to (731, 58)
+Mouse move to (723, 64)
+Mouse move to (714, 69)
+Mouse move to (702, 76)
+Mouse move to (693, 82)
+Mouse move to (683, 89)
+Mouse move to (676, 94)
+Mouse move to (665, 102)
+Mouse move to (656, 107)
+Mouse move to (645, 116)
+Mouse move to (637, 122)
+Mouse move to (627, 130)
+Mouse move to (617, 137)
+Mouse move to (610, 144)
+Mouse move to (599, 152)
+Mouse move to (590, 160)
+Mouse move to (582, 167)
+Mouse move to (576, 172)
+Mouse move to (568, 179)
+Mouse move to (562, 184)
+Mouse move to (556, 189)
+Mouse move to (552, 194)
+Mouse move to (547, 197)
+Mouse move to (541, 203)
+Mouse move to (538, 205)
+Mouse move to (535, 208)
+Mouse move to (533, 211)
+Mouse move to (530, 213)
+Mouse move to (525, 216)
+Mouse move to (523, 217)
+Mouse move to (520, 220)
+Mouse move to (517, 222)
+Mouse move to (514, 224)
+Mouse move to (513, 225)
+Mouse move to (510, 228)
+Mouse move to (508, 229)
+Mouse move to (507, 230)
+Mouse move to (506, 232)
+Mouse move to (505, 233)
+Mouse move to (504, 235)
+Mouse move to (503, 236)
+Mouse move to (501, 237)
+Mouse move to (500, 239)
+Mouse move to (498, 242)
+Mouse move to (498, 243)
+Mouse move to (497, 245)
+Mouse move to (496, 247)
+Mouse move to (493, 250)
+Mouse move to (491, 254)
+Mouse move to (488, 257)
+Mouse move to (486, 259)
+Mouse move to (485, 260)
+Mouse move to (484, 264)
+Mouse move to (483, 264)
+Mouse move to (481, 267)
+Mouse move to (480, 269)
+Mouse move to (480, 270)
+Mouse move to (479, 273)
+Mouse move to (478, 275)
+Mouse move to (476, 278)
+Mouse move to (476, 279)
+Mouse move to (474, 282)
+Mouse move to (474, 284)
+Mouse move to (473, 286)
+Mouse move to (473, 288)
+Mouse move to (472, 289)
+Mouse move to (472, 290)
+Mouse move to (472, 291)
+Mouse move to (472, 292)
+Mouse move to (472, 293)
+Mouse move to (472, 294)
+Mouse move to (472, 295)
+Mouse move to (472, 297)
+Mouse move to (472, 298)
+Mouse move to (472, 300)
+Mouse move to (472, 302)
+Mouse move to (473, 304)
+Mouse move to (474, 305)
+Mouse move to (474, 306)
+Mouse move to (475, 307)
+Mouse move to (477, 309)
+Mouse move to (479, 310)
+Mouse move to (481, 310)
+Mouse move to (481, 311)
+Mouse move to (485, 313)
+Mouse move to (485, 314)
+Mouse move to (489, 314)
+Mouse move to (490, 314)
+Mouse move to (491, 315)
+Mouse move to (492, 315)
+Mouse move to (495, 317)
+Mouse move to (496, 317)
+Mouse move to (498, 318)
+Mouse move to (499, 318)
+Mouse move to (500, 318)
+Mouse move to (502, 319)
+Mouse move to (504, 319)
+Mouse move to (506, 320)
+Mouse move to (507, 320)
+Mouse move to (508, 320)
+Mouse move to (508, 321)
+Mouse button 1 down at (508, 321)
+Mouse button 1 up at (508, 321)
+105 frame(s) dropped
+Mouse move to (509, 321)
+Mouse move to (512, 319)
+Mouse move to (514, 318)
+Mouse move to (514, 317)
+Mouse move to (516, 315)
+Mouse move to (518, 314)
+Mouse move to (519, 313)
+Mouse move to (520, 312)
+Mouse move to (520, 311)
+Mouse move to (521, 311)
+7 frame(s) dropped
+Mouse move to (520, 312)
+Mouse move to (519, 312)
+Mouse button 1 down at (519, 312)
+Mouse button 1 up at (519, 312)
+Mouse move to (518, 312)
+Mouse move to (513, 312)
+Mouse move to (510, 312)
+Mouse move to (505, 312)
+Mouse move to (500, 312)
+Mouse move to (496, 312)
+Mouse move to (492, 312)
+Mouse move to (489, 312)
+Mouse move to (485, 312)
+Mouse move to (480, 312)
+Mouse move to (477, 312)
+Mouse move to (473, 312)
+Mouse move to (471, 312)
+Mouse move to (461, 308)
+Mouse move to (451, 303)
+Mouse move to (437, 297)
+Mouse move to (425, 293)
+Mouse move to (416, 292)
+Mouse move to (409, 290)
+Mouse move to (394, 284)
+Mouse move to (383, 280)
+Mouse move to (371, 276)
+Mouse move to (361, 273)
+Mouse move to (354, 271)
+Mouse move to (346, 269)
+Mouse move to (338, 266)
+Mouse move to (330, 263)
+Mouse move to (327, 262)
+Mouse move to (323, 260)
+Mouse move to (320, 259)
+Mouse move to (317, 257)
+Mouse move to (316, 256)
+Mouse move to (315, 256)
+Mouse move to (315, 255)
+Mouse move to (313, 255)
+Mouse move to (313, 254)
+Mouse move to (313, 252)
+Mouse move to (313, 251)
+Mouse move to (312, 251)
+Mouse move to (310, 252)
+Mouse move to (308, 253)
+Mouse move to (306, 254)
+Mouse move to (306, 256)
+Mouse move to (304, 257)
+Mouse move to (303, 257)
+Mouse move to (302, 259)
+Mouse move to (302, 260)
+Mouse move to (301, 260)
+50 frame(s) dropped
+Mouse move to (300, 261)
+Mouse move to (302, 259)
+Mouse move to (308, 254)
+Mouse move to (311, 252)
+Mouse move to (315, 250)
+Mouse move to (321, 245)
+Mouse move to (324, 244)
+Mouse move to (329, 240)
+Mouse move to (337, 237)
+Mouse move to (344, 233)
+Mouse move to (350, 229)
+Mouse move to (356, 226)
+Mouse move to (359, 225)
+Mouse move to (364, 222)
+Mouse move to (368, 219)
+Mouse move to (372, 217)
+Mouse move to (375, 216)
+Mouse move to (378, 214)
+Mouse move to (381, 212)
+Mouse move to (382, 211)
+Mouse move to (385, 209)
+Mouse move to (386, 209)
+Mouse move to (387, 208)
+Mouse move to (390, 205)
+Mouse move to (391, 204)
+Mouse move to (392, 204)
+Mouse move to (393, 204)
+Mouse move to (395, 203)
+Mouse move to (395, 202)
+Mouse move to (396, 201)
+Mouse move to (396, 203)
+Mouse move to (396, 205)
+Mouse move to (396, 206)
+Mouse move to (396, 208)
+Mouse move to (396, 210)
+Mouse move to (396, 212)
+Mouse move to (396, 213)
+Mouse move to (396, 214)
+Mouse move to (396, 215)
+Mouse move to (396, 216)
+Mouse move to (396, 217)
+Mouse move to (396, 218)
+45 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 219 down
+Mouse move to (408, 222)
+Mouse move to (791, 336)
+Mouse move to (786, 266)
+Mouse move to (793, 265)
+1 frame(s) dropped
+1 frame(s) dropped
+Mouse move to (797, 279)
+Mouse move to (796, 280)
+Mouse move to (794, 281)
+Mouse move to (793, 283)
+Mouse move to (790, 285)
+Mouse move to (789, 285)
+Mouse move to (789, 286)
+7 frame(s) dropped
+Mouse button 2 down at (789, 286)
+Mouse button 2 up at (789, 286)
+Mouse move to (787, 286)
+Mouse move to (783, 288)
+Mouse move to (776, 290)
+Mouse move to (768, 291)
+Mouse move to (755, 291)
+Mouse move to (741, 292)
+Mouse move to (725, 292)
+Mouse move to (706, 292)
+Mouse move to (688, 292)
+Mouse move to (672, 292)
+Mouse move to (652, 292)
+Mouse move to (633, 292)
+Mouse move to (615, 289)
+Mouse move to (589, 285)
+Mouse move to (572, 283)
+Mouse move to (555, 280)
+Mouse move to (542, 276)
+Mouse move to (530, 272)
+Mouse move to (516, 266)
+Mouse move to (505, 261)
+Mouse move to (491, 254)
+Mouse move to (481, 249)
+Mouse move to (470, 243)
+Mouse move to (463, 238)
+Mouse move to (458, 234)
+Mouse move to (452, 229)
+Mouse move to (449, 227)
+Mouse move to (446, 224)
+Mouse move to (444, 221)
+Mouse move to (439, 219)
+Mouse move to (436, 216)
+Mouse move to (435, 215)
+Mouse move to (432, 214)
+Mouse move to (429, 211)
+Mouse move to (428, 209)
+Mouse move to (427, 208)
+Mouse move to (426, 207)
+Mouse move to (425, 206)
+Mouse move to (423, 206)
+Mouse move to (423, 205)
+Mouse move to (422, 204)
+Mouse move to (421, 204)
+Mouse move to (420, 202)
+Mouse move to (418, 200)
+Mouse move to (417, 199)
+Mouse move to (417, 198)
+Mouse move to (416, 196)
+Mouse move to (416, 194)
+Mouse move to (416, 193)
+Mouse move to (416, 192)
+Mouse move to (416, 190)
+Mouse move to (417, 189)
+Mouse move to (417, 188)
+Mouse move to (418, 187)
+Mouse move to (418, 186)
+Mouse move to (420, 184)
+Mouse move to (421, 181)
+Mouse move to (422, 179)
+Mouse move to (422, 178)
+Mouse move to (423, 177)
+Mouse move to (423, 176)
+Mouse move to (424, 175)
+Mouse move to (424, 174)
+Mouse button 1 down at (424, 174)
+Mouse button 1 up at (424, 174)
+69 frame(s) dropped
+Mouse button 1 down at (424, 174)
+Mouse button 1 up at (424, 174)
+Mouse move to (422, 174)
+Mouse move to (422, 177)
+Mouse move to (421, 178)
+Mouse move to (420, 179)
+Mouse move to (418, 182)
+Mouse move to (417, 184)
+Mouse move to (416, 187)
+Mouse move to (414, 191)
+Mouse move to (413, 196)
+Mouse move to (412, 202)
+Mouse move to (412, 207)
+Mouse move to (412, 214)
+Mouse move to (412, 220)
+Mouse move to (411, 229)
+Mouse move to (411, 239)
+Mouse move to (411, 248)
+Mouse move to (411, 258)
+Mouse move to (411, 268)
+Mouse move to (410, 276)
+Mouse move to (410, 286)
+Mouse move to (410, 293)
+Mouse move to (410, 298)
+Mouse move to (410, 303)
+Mouse move to (410, 307)
+Mouse move to (410, 312)
+Mouse move to (409, 319)
+Mouse move to (409, 326)
+Mouse move to (409, 334)
+Mouse move to (409, 339)
+Mouse move to (409, 348)
+Mouse move to (409, 355)
+Mouse move to (409, 360)
+Mouse move to (409, 365)
+Mouse move to (409, 370)
+Mouse move to (409, 374)
+Mouse move to (409, 379)
+Mouse move to (409, 384)
+Mouse move to (409, 387)
+Mouse move to (409, 392)
+Mouse move to (409, 397)
+Mouse move to (409, 405)
+Mouse move to (409, 410)
+Mouse move to (409, 415)
+Mouse move to (409, 422)
+Mouse move to (408, 425)
+Mouse move to (408, 430)
+Mouse move to (408, 433)
+Mouse move to (408, 435)
+Mouse move to (408, 438)
+Mouse move to (408, 440)
+Mouse move to (408, 442)
+Mouse move to (408, 443)
+Mouse move to (408, 444)
+Mouse move to (407, 446)
+Mouse move to (405, 449)
+Mouse move to (404, 451)
+Mouse move to (403, 453)
+Mouse move to (403, 454)
+Mouse move to (402, 456)
+Mouse move to (402, 458)
+Mouse move to (401, 458)
+Mouse move to (400, 460)
+Mouse move to (400, 461)
+Mouse move to (400, 463)
+Mouse move to (400, 464)
+Mouse move to (400, 465)
+Mouse button 1 down at (400, 465)
+Change scene from 3 to 1
+Mouse button 1 up at (400, 465)
+70 frame(s) dropped
+Mouse move to (400, 464)
+Mouse move to (400, 461)
+Mouse move to (399, 459)
+Mouse move to (399, 457)
+Mouse move to (398, 456)
+Mouse move to (398, 454)
+Mouse move to (398, 453)
+Mouse move to (397, 450)
+Mouse move to (397, 448)
+Mouse move to (397, 447)
+Mouse move to (397, 444)
+Mouse move to (397, 441)
+Mouse move to (397, 440)
+Mouse move to (397, 437)
+Mouse move to (397, 436)
+Mouse move to (397, 433)
+Mouse move to (397, 432)
+Mouse move to (397, 431)
+Mouse move to (397, 429)
+Mouse move to (397, 427)
+Mouse move to (397, 425)
+Mouse move to (397, 421)
+Mouse move to (397, 419)
+Mouse move to (397, 416)
+Mouse move to (396, 413)
+Mouse move to (396, 411)
+Mouse move to (396, 409)
+Mouse move to (396, 408)
+Mouse move to (396, 407)
+Mouse move to (396, 404)
+Mouse move to (396, 402)
+Mouse move to (396, 401)
+Mouse move to (396, 399)
+Mouse move to (396, 398)
+Mouse move to (396, 397)
+Mouse move to (396, 396)
+Mouse button 1 down at (396, 396)
+Mouse button 1 up at (396, 396)
+36 frame(s) dropped
+Key with keycode 67 down
+Change scene from 1 to 2
+stop audio (bgm)
+2 frame(s) dropped
+5 frame(s) dropped
+Key with keycode 67 up
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+5 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+Key with keycode 75 down
+6 frame(s) dropped
+4 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 82 down
+7 frame(s) dropped
+Key with keycode 82 up
+6 frame(s) dropped
+5 frame(s) dropped
+Key with keycode 75 down
+7 frame(s) dropped
+Key with keycode 75 up
+7 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+6 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 75 up
+1 frame(s) dropped
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 83 down
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 83 up
+Key with keycode 75 up
+2 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+2 frame(s) dropped
+Key with keycode 83 up
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 83 down
+1 frame(s) dropped
+Key with keycode 83 up
+Key with keycode 75 down
+2 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 83 down
+1 frame(s) dropped
+Key with keycode 83 up
+Key with keycode 75 up
+1 frame(s) dropped
+Key with keycode 83 down
+2 frame(s) dropped
+Key with keycode 83 up
+Key with keycode 82 down
+Key with keycode 82 up
+1 frame(s) dropped
+Key with keycode 84 down
+1 frame(s) dropped
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 82 up
+1 frame(s) dropped
+Key with keycode 84 down
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 84 up
+Key with keycode 84 down
+1 frame(s) dropped
+Key with keycode 83 down
+Key with keycode 84 up
+2 frame(s) dropped
+Key with keycode 75 down
+1 frame(s) dropped
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 82 up
+2 frame(s) dropped
+Key with keycode 83 down
+1 frame(s) dropped
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 83 down
+2 frame(s) dropped
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 83 down
+1 frame(s) dropped
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 82 down
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 82 up
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+Key with keycode 75 up
+6 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+5 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+7 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+7 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 75 down
+1 frame(s) dropped
+Key with keycode 82 down
+Key with keycode 82 up
+1 frame(s) dropped
+Key with keycode 83 down
+1 frame(s) dropped
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 82 down
+Key with keycode 82 up
+Key with keycode 83 down
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 84 down
+1 frame(s) dropped
+Key with keycode 84 up
+Key with keycode 83 down
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 85 down
+1 frame(s) dropped
+Key with keycode 85 up
+1 frame(s) dropped
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+1 frame(s) dropped
+Key with keycode 83 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 82 down
+Key with keycode 82 up
+1 frame(s) dropped
+Key with keycode 84 down
+1 frame(s) dropped
+Key with keycode 84 up
+1 frame(s) dropped
+Key with keycode 82 down
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 75 down
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+Key with keycode 83 down
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 up
+1 frame(s) dropped
+Key with keycode 83 up
+1 frame(s) dropped
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 down
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 82 up
+1 frame(s) dropped
+Key with keycode 75 down
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 75 down
+Key with keycode 82 down
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 82 down
+2 frame(s) dropped
+Key with keycode 75 down
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 85 down
+1 frame(s) dropped
+Key with keycode 85 up
+1 frame(s) dropped
+Key with keycode 75 down
+1 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 82 down
+Key with keycode 75 down
+Key with keycode 82 up
+Key with keycode 75 up
+2 frame(s) dropped
+1 frame(s) dropped
+1 frame(s) dropped
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 up
+Key with keycode 83 up
+Key with keycode 75 down
+2 frame(s) dropped
+Key with keycode 75 up
+Key with keycode 82 down
+2 frame(s) dropped
+Key with keycode 82 up
+1 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 75 down
+Key with keycode 82 down
+1 frame(s) dropped
+Key with keycode 75 up
+1 frame(s) dropped
+Key with keycode 85 up
+Key with keycode 82 up
+Key with keycode 82 down
+3 frame(s) dropped
+4 frame(s) dropped
+Key with keycode 82 up
+Key with keycode 85 down
+8 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+Key with keycode 85 up
+8 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+3 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+5 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+4 frame(s) dropped
+Mouse move to (410, 377)
+Mouse move to (432, 357)
+Mouse move to (459, 328)
+Mouse move to (483, 302)
+Mouse move to (537, 244)
+Mouse move to (563, 218)
+Mouse move to (592, 189)
+Mouse move to (615, 166)
+Mouse move to (640, 145)
+Mouse move to (671, 120)
+Mouse move to (696, 103)
+Mouse move to (720, 84)
+Mouse move to (751, 64)
+Mouse move to (771, 50)
+Mouse move to (794, 38)
+20 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+6 frame(s) dropped
+5 frame(s) dropped
+5 frame(s) dropped
+Window close button clicked
+Game end
